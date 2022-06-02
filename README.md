@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shambelFente
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently studying graduate program in computer science
+- 👋 Hi, I’m @shambel
+- 👀 I’m interested in Machine Learning, Data Science, and Computer Vision
+- 🌱 I got my master's degree in computer science in 2022
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can reach out to me @fenteshambel@gmail.com
 
 <!---
 shambelFente/shambelFente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
